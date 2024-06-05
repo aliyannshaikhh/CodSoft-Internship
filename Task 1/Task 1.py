@@ -1,3 +1,5 @@
+#CLI Based To-Do List Application
+
 tasks = []
 
 def add_task():
